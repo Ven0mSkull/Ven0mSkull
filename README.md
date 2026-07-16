@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hi, I'm Guilherme Toffoletto
 
-<!--
-**Ven0mSkull/Ven0mSkull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Developer & Cybersecurity Enthusiast
+📍 Braga, Portugal
 
-Here are some ideas to get you started:
+🎯 Currently:
+- Studying for CompTIA Security+
+- Learning Backend Development
+- Building Cybersecurity Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Technologies:
+HTML • CSS • JavaScript • PHP • SQL • Node.js
+
+🔐 Interests
+- Web Security
+- Ethical Hacking
+- OWASP
+- Penetration Testing
