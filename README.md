@@ -39,10 +39,6 @@ const Guilherme = {
 }
 ```
 
----
-
-# 🚀 Tech Stack
-
 ## Languages
 
 <p>
