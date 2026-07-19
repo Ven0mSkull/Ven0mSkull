@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;PHP+%7C+JavaScript+%7C+Node.js;Always+Learning+Something+New+🚀" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Ven0mSkull&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 </div>
@@ -47,7 +47,7 @@ const Guilherme = {
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,cs,mysql,git,github,linux,bash,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,cs,mysql,git,github,linux,vscode" />
 
 </p>
 
@@ -67,49 +67,7 @@ const Guilherme = {
 - 🌐 Web Security
 - 🔎 Vulnerability Assessment
 
----
 
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📊 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
 
 # 🚀 Featured Projects
 
@@ -125,11 +83,7 @@ Cybersecurity learning platform containing:
 
 ---
 
-## 🌐 Portfolio Website
 
-Modern portfolio built with HTML, CSS and JavaScript.
-
----
 
 ## 🔑 PHP Authentication System
 
@@ -182,7 +136,7 @@ Collection of practical Web Security exercises.
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:8.guilherme.06@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
